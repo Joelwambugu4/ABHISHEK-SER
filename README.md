@@ -1,10 +1,10 @@
-   # ABHISHEK-SER
+   # JOEL WAMBUGU
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+ABHISHEK-SER;Multi+Divice+Whatsapp+Bot;Coded+By+ABHISHEK SURESH" alt="Typing SVG" /></a>
   
 <p align="center">  
   <a href="https://youtube.com/@comedymelodych8468">
-    <img alt=ABHISHEK-SER height="300" src="https://replicate.delivery/pbxt/QbP6Fh3ZXwKON9SCB70ERGwwgeeSbztwKIOIzhUeXFkwnFHiA/out.png">
+    <img alt=JOEL WAMBUGU height="300" src="https://replicate.delivery/pbxt/QbP6Fh3ZXwKON9SCB70ERGwwgeeSbztwKIOIzhUeXFkwnFHiA/out.png">
    
 </a> 
     
@@ -21,7 +21,7 @@ ABHISHEK-SER Multi Device Whatsapp Bot.
 
 1. Fork The Repo
     <br>
-<a href="https://github.com/AbhishekSuresh2/ABHISHEK-SER/fork"><img title="ABHISHEK-SER" src="https://img.shields.io/badge/FORK ABHISHEK SER-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/AbhishekSuresh2/ABHISHEK-SER/fork"><img title="JOEL WAMBUGU" src="https://img.shields.io/badge/FORK ABHISHEK SER-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 2. Scan The Qr Code And Upload abhi.data.json To Your Fork🎯(Will Recieve It On Your Bot Number After Scanning)
     <br>
